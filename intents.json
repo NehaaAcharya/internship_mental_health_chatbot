@@ -1,0 +1,76 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": [
+      "Hi",
+      "Hello",
+      "How are you?",
+      "Hey",
+      "Good morning",
+      "Good evening"
+    ],
+    "responses": [
+      "Hello! How can I assist you today?",
+      "Hi! How can I help you?",
+      "Hello! What's on your mind?"
+    ]
+  },
+  {
+    "tag": "motivation",
+    "patterns": [
+      "I need motivation",
+      "I'm feeling down",
+      "I need some encouragement",
+      "Help me stay motivated",
+      "I'm feeling demotivated"
+    ],
+    "responses": [
+      "When you need motivation, remember to take small steps towards your goals. A good motivational podcast might help too!",
+      "Stay strong! Every small step brings you closer to your goal. Keep going!",
+      "Don't give up! Focus on your progress, no matter how small."
+    ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+      "Bye",
+      "Goodbye",
+      "See you later",
+      "Take care"
+    ],
+    "responses": [
+      "Goodbye! Have a great day!",
+      "Take care! Hope to talk to you again soon."
+    ]
+  },
+  {
+    "tag": "thanks",
+    "patterns": [
+      "Thank you",
+      "Thanks",
+      "I appreciate it"
+    ],
+    "responses": [
+      "You're welcome!",
+      "Happy to help!",
+      "No problem! I'm here for you."
+    ]
+  },
+  {
+    "tag": "feeling",
+    "patterns": [
+      "I'm feeling stressed",
+      "I'm feeling anxious",
+      "I'm feeling sad",
+      "I'm feeling happy",
+      "I'm feeling overwhelmed"
+    ],
+    "responses": [
+      "I understand you're feeling stressed. Taking deep breaths or a short walk can help.",
+      "It's okay to feel anxious sometimes. Try relaxing with some deep breathing exercises.",
+      "I'm sorry you're feeling down. Try talking to a loved one or writing down your feelings in a journal.",
+      "That's great to hear! You can try channeling your excitement into creative activities or a new project.",
+      "It's okay to feel overwhelmed. Take it one step at a time, and don't forget to take breaks."
+    ]
+  }
+]
