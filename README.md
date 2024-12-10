@@ -1,10 +1,3 @@
-# internship_mental_health_chatbot
-This is a mental health chatbot designed to provide supportive and empathetic conversations to help individuals manage their mental well-being. Built using Natural Language Processing (NLP) and Logistic Regression for intent classification, the chatbot offers features such as emotion tracking, conversation logging, and personalized responses.
-
-Sure! Here's the updated README without the license section:
-
----
-
 # Mental Health Chatbot
 
 This project is a **Mental Health Chatbot** that leverages Natural Language Processing (NLP) and **Logistic Regression** to provide supportive, empathetic conversations for users seeking to manage their mental well-being. Built using **Streamlit**, the chatbot offers personalized responses, tracks emotional states, and logs conversations for future reference. It’s designed to offer a safe, interactive, and engaging experience for users to reflect on their emotions and receive guidance and coping strategies for mental wellness.
